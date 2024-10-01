@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRQf4NE1e9EF7iU0upp/SZ8d5Eb2BchOA0njmO6rVAI2fNnGzOF+ii/n1iO6+ZTIMAhbIBdEOeJ18D99gKiagw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\portm\\Desktop\\Poprizhonok\\Poprizhonok\\Poprizhonok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\portm\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\portm\\.nuget\\packages\\entityframework.ru\\6.2.0\\entityframework.ru.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
